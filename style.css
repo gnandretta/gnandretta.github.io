@@ -19,13 +19,3 @@ p {
   max-width: 560px;
   color: #7d878a;
 }
-
-.icon {
-  width: 20px;
-}
-
-.icon[alt="Linkedin"] {
-  position: relative;
-  top: -2px;
-  width: 19px;
-}
