@@ -19,3 +19,12 @@ p {
   max-width: 560px;
   color: #7d878a;
 }
+
+path {
+  fill: #444951;
+  transition: all 0.4s ease;
+}
+
+a:hover path {
+  fill: #444951;
+}
