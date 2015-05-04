@@ -1,0 +1,14 @@
+body {
+  color: #444951;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.icon {
+  width: 24px;
+}
+
+.icon[alt="Linkedin"] {
+  position: relative;
+  top: -2px;
+  width: 23px;
+}
